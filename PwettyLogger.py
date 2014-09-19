@@ -1,5 +1,6 @@
 #
 #  Created by Mads Ynddal on 08/09/14.
+#  GitHub: https://github.com/Baekalfen/PwettyLogger.git
 #  Licence: Public Domain
 #  Credit me if you want to...
 #
